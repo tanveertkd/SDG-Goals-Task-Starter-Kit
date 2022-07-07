@@ -19,3 +19,15 @@ export const GOALS_LIST = [
 ];
 
 export const YEARS = [2020, 2019, 2018];
+
+export const UT = [
+  "Chandigarh",
+  "Delhi",
+  "Lakshadweep",
+  "Puducherry",
+  "Andaman and Nicobar Islands",
+  "Jammu and Kashmir",
+  "Ladakh",
+  "Dadra and Nagar Haveli",
+  "Daman and Diu"
+];
